@@ -34,7 +34,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 <p align="center">
   <img
     class="rounded mx-auto d-block"
-    src="/guess-the-color.gif"
+    src="./guess-the-color.gif"
     alt="Gif exibindo um jogo de adivinhar a cor"
   >
 </p>
