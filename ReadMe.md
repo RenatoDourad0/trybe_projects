@@ -13,10 +13,11 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Playground Functions](Modulo-1-Fundamentos/2-playground-functions)_
 - [x] _[Project - Todo List](Modulo-1-Fundamentos/4-todo-list)_
 - [x] _[Project - Pixel Art](Modulo-1-Fundamentos/3-pixels-art)_
-- [x] _[Project - Meme-generator](Modulo-1-Fundamentos/5-meme-generator)
-- [x] _[Project - Mistery-letter](Modulo-1-Fundamentos/6-mistery-letter)
-- [ ] _[Project - Trybewarts]()_
-- [ ] _[Project - JS Unit Tests]()_
+- [x] _[Project - Meme-generator](Modulo-1-Fundamentos/5-meme-generator)_
+- [x] _[Project - Mistery-letter](Modulo-1-Fundamentos/6-mistery-letter)_
+- [x] _[Project - Color Guess](Modulo-1-Fundamentos/7-color-guess)_
+- [x] _[Project - Trybewarts](Modulo-1-Fundamentos/8-trybeWarts)_
+- [x] _[Project - JS Unit Tests](Modulo-1-Fundamentos/9-js-unit-tests-Jest)_
 - [ ] _[Project - Zoo functions]()_
 - [ ] _[Project - Shopping Cart]()_
 - [ ] _[Project - Jest Async and Mocking]()_
