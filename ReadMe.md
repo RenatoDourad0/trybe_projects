@@ -18,12 +18,12 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Color Guess](Modulo-1-Fundamentos/7-color-guess)_
 - [x] _[Project - Trybewarts](Modulo-1-Fundamentos/8-trybeWarts)_
 - [x] _[Project - JS Unit Tests](Modulo-1-Fundamentos/9-js-unit-tests-Jest)_
-- [ ] _[Project - Zoo functions]()_
-- [ ] _[Project - Shopping Cart]()_
-- [ ] _[Project - Jest Async and Mocking]()_
+- [x] _[Project - Zoo functions](Modulo-1-Fundamentos/10-zoo-functions)_
 
 ## Front-end Development - React :heavy_check_mark:
 
+- [ ] _[Project - Shopping Cart]()_
+- [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
 - [ ] _[Project - Movie Cards Library Stateful]()_
 - [ ] _[Project - Movie Cards Library CRUD]()_
