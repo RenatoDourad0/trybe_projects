@@ -1,8 +1,6 @@
 # Trybe Projects
 
-This repository contains all the projects developed by me while studying at [Trybe](https://www.betrybe.com/)
-
-_"Trybe is a web development school that has a genuine commitment to the professional success of its students. With the Shared Success Model, those who study at Trybe have the option of paying only when they are already working._
+This repository contains all the projects developed while attending the full stack web development course at [Trybe](https://www.betrybe.com/).
 
 _There are more than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills."_
 
@@ -22,7 +20,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 
 ## Front-end Development - React :heavy_check_mark:
 
-- [ ] _[Project - Shopping Cart]()_
+- [x] _[Project - Shopping Cart]()_
 - [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
 - [ ] _[Project - Movie Cards Library Stateful]()_
