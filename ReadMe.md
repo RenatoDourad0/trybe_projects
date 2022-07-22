@@ -20,8 +20,8 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 
 ## Front-end Development - React :heavy_check_mark:
 
-- [x] _[Project - Shopping Cart]()_
-- [x] _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
+- [x] :sound: _[Project - Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)_
+- [x] :sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
 - [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
 - [ ] _[Project - Movie Cards Library Stateful]()_
