@@ -9,7 +9,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 
 - [x] _[Project - Lessons Learned](Modulo-1-Fundamentos/1-lessons-learned)_
 - [x] _[Project - Playground Functions](Modulo-1-Fundamentos/2-playground-functions)_
-- [x] _[Project - Todo List](Modulo-1-Fundamentos/4-todo-list)_
+- [x] :computer: _[Project - Todo List](https://github.com/RenatoDourad0/Project_ToDo_List_Trybe)_
 - [x] _[Project - Pixel Art](Modulo-1-Fundamentos/3-pixels-art)_
 - [x] _[Project - Meme-generator](Modulo-1-Fundamentos/5-meme-generator)_
 - [x] _[Project - Mistery-letter](Modulo-1-Fundamentos/6-mistery-letter)_
@@ -20,8 +20,8 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 
 ## Front-end Development - React :heavy_check_mark:
 
-- [x] :sound: _[Project - Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)_
-- [x] :sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
+- [x] :computer::sound: _[Project - Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)_
+- [x] :computer::sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
 - [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
 - [ ] _[Project - Movie Cards Library Stateful]()_
