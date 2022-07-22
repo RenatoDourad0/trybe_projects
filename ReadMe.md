@@ -2,7 +2,7 @@
 
 This repository contains a reference to all the projects developed while attending the full stack web development course at [Trybe](https://www.betrybe.com/).
 
-_There are more than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills."_
+There are more than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills.
 
 
 ## Fundamentals - Web Development :heavy_check_mark:
