@@ -22,6 +22,7 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 
 - [x] :computer::sound: _[Project - Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)_
 - [x] :computer::sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
+- [x] :computer::sound: _[Project - Tryunfo cards game](https://github.com/RenatoDourad0/Project_Tryunfo_Trybe)_
 - [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
 - [ ] _[Project - Movie Cards Library Stateful]()_
