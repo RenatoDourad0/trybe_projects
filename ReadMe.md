@@ -26,13 +26,10 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 - [x] :computer::sound: _[Project - TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)_
 - [x] [Project - React Testing Library](#)
 - [x] :computer::sound: _[Project - Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)_
+- [x] :computer: _[Project - Trivia Game](https://github.com/RenatoDourad0/Project_Trivia_Game)_
 - [ ] _[Project - Jest Async and Mocking]()_
 - [ ] _[Project - Movie Cards Library]()_
-- [ ] _[Project - Movie Cards Library Stateful]()_
-- [ ] _[Project - Movie Cards Library CRUD]()_
 - [ ] _[Project - Online Store]()_
-
-- [ ] _[Project - Trivia Game]()_
 - [ ] _[Project - Star Wars Planet Search]()_
 - [ ] _[Project - Recipes App]()_
 
