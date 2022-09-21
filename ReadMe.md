@@ -21,8 +21,8 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 ## Front-end Development - React :heavy_check_mark:
 
 - [x] :computer::sound: _[Project - Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)_
-- [x] :computer::sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
-- [x] :computer::sound: _[Project - Tryunfo cards game](https://github.com/RenatoDourad0/Project_Tryunfo_Trybe)_
+- [x] :computer: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
+- [x] :computer: _[Project - Tryunfo cards game](https://github.com/RenatoDourad0/Project_Tryunfo_Trybe)_
 - [x] :computer::sound: _[Project - TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)_
 - [x] Project - React Testing Library
 - [x] :computer::sound: _[Project - Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)_
