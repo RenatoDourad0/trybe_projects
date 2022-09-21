@@ -24,13 +24,10 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 - [x] :computer::sound: _[Project - Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)_ 
 - [x] :computer::sound: _[Project - Tryunfo cards game](https://github.com/RenatoDourad0/Project_Tryunfo_Trybe)_
 - [x] :computer::sound: _[Project - TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)_
-- [x] [Project - React Testing Library](#)
+- [x] Project - React Testing Library
 - [x] :computer::sound: _[Project - Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)_
 - [x] :computer: _[Project - Trivia Game](https://github.com/RenatoDourad0/Project_Trivia_Game)_
-- [ ] _[Project - Jest Async and Mocking]()_
-- [ ] _[Project - Movie Cards Library]()_
-- [ ] _[Project - Online Store]()_
-- [ ] _[Project - Star Wars Planet Search]()_
+- [x] Project - Star Wars Planet Search
 - [ ] _[Project - Recipes App]()_
 
 ## Back-end Development :heavy_check_mark:
