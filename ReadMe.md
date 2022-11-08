@@ -32,10 +32,10 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 
 ## Back-end Development :heavy_check_mark:
 
-- [x] _[Project - All For One]()_
-- [x] _[Project - One For All]()_
-- [x] _[Project - Docker Todo List]()_
-- [x] _[Project - Talker Manager]()_
+- [x] Project - All For One
+- [x] Project - One For All
+- [x] Project - Docker Todo List
+- [x] Project - Talker Manager
 - [ ] _[Project - Store Manager]()_
 - [ ] _[Project - Coockmaster]()_
 - [ ] _[Project - Stranger Things]()_
