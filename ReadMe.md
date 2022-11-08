@@ -28,7 +28,7 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 - [x] :computer::sound: _[Project - Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)_
 - [x] :computer: _[Project - Trivia Game](https://github.com/RenatoDourad0/Project_Trivia_Game)_
 - [x] Project - Star Wars Planet Search
-- [ ] _[Project - Recipes App]()_
+- [x] _[Project - Recipes App](https://github.com/RenatoDourad0/Project_Irecipe)_
 
 ## Back-end Development :heavy_check_mark:
 
